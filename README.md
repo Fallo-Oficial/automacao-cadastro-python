@@ -29,14 +29,14 @@ Organizei este repositório em duas etapas para demonstrar o aprendizado e a oti
 
 ## 📦 Como Usar
 
-1. **Clone este repositório:**
+1. **Clone este repositório através do Terminal (Abra direto com o comando: Ctrl + '), cole/digite o que está abaixo e aperte a tecla ENTER:**
   ```bash
   git clone https://github.com/Fallo-Oficial/automacao-cadastro-python
   ```
 
-2. **Instale as dependências necessárias:**
+2. **Instale as bibliotecas externas necessárias (Siga o passo-a-passo de abertura do Terminal acima):**
   ```bash
-  pip install pandas selenium pyautogui webdriver-manager openpyxl
+  pip install -r requirements.txt
   ```
 
 3. **Configuração e Calibração**
