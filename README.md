@@ -63,5 +63,5 @@ O arquivo `produtos.csv` deve conter as seguintes colunas:
 ---
 
 ## 📩 Contato
-- **GitHub**: [jlucaslds-dev](jlucaslds-dev)
-- **LinkedIn**: [José Lucas Leite da Silva](https://www.linkedin.com/in/josé-lucas-leite-da-silva)
+- **GitHub**: [jlucaslds-dev](https://github.com/jlucaslds-dev)
+- **LinkedIn**: [José Lucas Leite da Silva](https://www.linkedin.com/in/jlucaslds/)
